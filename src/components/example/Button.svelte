@@ -7,3 +7,7 @@
 </script>
 
 <button on:click="{handleClick}">{buttonText}</button>
+
+<style lang="scss">
+
+</style>
